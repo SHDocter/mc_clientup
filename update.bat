@@ -1,1 +1,1 @@
-move .minecraft\test.exe .\
+move .minecraft\start.exe .\
