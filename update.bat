@@ -1,0 +1,1 @@
+move .minecraft\test.exe .\
